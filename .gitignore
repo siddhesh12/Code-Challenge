@@ -1,0 +1,6 @@
+xcuserdata
+*.pbxuser
+*.xcuserstate
+Pods/
+Thumbs.db
+.DS_Store
